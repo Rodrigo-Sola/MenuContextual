@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RC-MenusContextual</string>
+    <string name="lblmensjae">Hello World!</string>
+    <string name="opc_etiqueta1">Opción 1</string>
+    <string name="opc_etiqueta2">Opción 2</string>
+    <string name="opc_etiqueta3">Opción 3</string>
+    <string name="opc_lista1">Lista Opción 1</string>
+    <string name="opc_lista2">Lista Opción 2</string>
+</resources>
